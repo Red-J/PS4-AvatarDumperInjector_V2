@@ -5,7 +5,7 @@ This version of payload will work on 4.55 (untested),4.74(untested),5.05(working
 
 You must use a bin loader to use it at the moment
 
-The payload will check if an USB key is connected and contain "Avatar_Inject" folder.
+The payload will check if an USB key is connected and contain "Avatar_Inject" folder.                                                                        
 The USB port is detected dynamicly
 Avatar_Inject content will be copy to connected user dynamicly
 An avatar backup will be done before the copy process 
