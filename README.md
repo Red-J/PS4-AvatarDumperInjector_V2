@@ -7,11 +7,11 @@ You must use a bin loader to use it at the moment
 
 The payload will check if an USB key is connected and contain "Avatar_Inject" folder.                                                                        
 
-Change since v1:
--The payload loop to wait your usb key 
--The USB port is detected dynamicly
--Avatar_Inject content will be copy to connected user dynamicly
--An avatar backup will be done on usb key before the copy process 
+Change since v1:                                                                                                                     
+-The payload loop to wait your usb key                                                                                                          
+-The USB port is detected dynamicly                                                                                                                  
+-Avatar_Inject content will be copy to connected user dynamicly                                                                                            
+-An avatar backup will be done on usb key before the copy process                                                                                                    
 
 
 When the copy is done, you must change user or reboot the ps4 to view the change.                                                            
