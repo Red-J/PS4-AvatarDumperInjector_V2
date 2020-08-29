@@ -10,10 +10,10 @@ The USB port is detected dynamicly
 Avatar_Inject content will be copy to connected user dynamicly
 An avatar backup will be done before the copy process 
 
-When the copy is done, you must change user or reboot the ps4 to view the change.
+When the copy is done, you must change user or reboot the ps4 to view the change.                                                            
 This code is inspired by history_blocker from stooged
 
-Greets:Stooged,Al-Azif,Team eversion for universal fw things, DefaultDNB and all people who work really on ps4 scene and don't just talk ! 
+Greets:Stooged for history blocker and a lot of code who inspired me, Al-Azif for his help ,Team eversion for universal fw things, DefaultDNB and all people who work really on ps4 scene and don't just talk ! 
 You know who your are;)
 
 Red-J
