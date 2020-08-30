@@ -5,7 +5,9 @@ This version of payload will work on 4.55 (untested),4.74(untested),5.05(working
 
 You must use a bin loader to use it at the moment
 
-The payload will check if an USB key is connected and contain "Avatar_Inject" folder.                                                                        
+The payload will check if an USB key is connected and contain "Avatar_Inject" folder.               
+
+Files needed in Avatar_Inject folder:avatar.png,avatar64.dds,avatar128.dds,avatar260.dds,avatar440.dds                                                            
 
 Change since v1:                                                                                                                     
 -The payload loop to wait your usb key                                                                                                          
