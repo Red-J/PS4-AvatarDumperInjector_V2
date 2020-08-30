@@ -3,7 +3,7 @@ Avatar Dumper and injector payload for Ps4 v2
 
 This version of payload will work on 4.55 (untested),4.74(untested),5.05(working) or 6.72(working).
 
-You must use a bin loader to use it at the moment
+You can use a bin loader or use 5.05 html version or 6.72 javascript version (combined with a JB for 6.72)
 
 The payload will check if an USB key is connected and contain "Avatar_Inject" folder.               
 
